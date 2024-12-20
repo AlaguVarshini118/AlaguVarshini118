@@ -13,10 +13,18 @@
 
 ### 👩‍💻 About Me
 
-🔭 I’m a Frontend Web Developer with expertise in React, Node.js, and AI/ML applications.
-💡 My focus is on crafting high-performance, user-centric applications that solve real-world problems with innovative solutions.
-📈 I enjoy exploring and applying emerging technologies like Computer Vision, Deep Learning, and NLP to create impactful, future-forward solutions.
-🤝 If you’re looking for a dedicated developer to bring your ideas to life, let’s connect!
+Here's the revised version:
+
+---
+
+- 🔭 I’m a **Frontend Web Developer** with expertise in **React**, **Node.js**, and **AI/ML** applications.  
+- 💡 My focus is on crafting **high-performance, user-centric applications** that solve real-world problems with innovative solutions.  
+- 📈 I enjoy exploring and applying **emerging technologies** like **Computer Vision**, **Deep Learning**, and **NLP** to create impactful, future-forward solutions.  
+- 🤝 If you’re looking for a dedicated developer to bring your ideas to life, let’s **connect**!
+
+---
+
+Let me know if you'd like any more adjustments!
 
 ---
 
