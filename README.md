@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm D Khomathi</h1>
+<h1 align="center">Hi 👋, I'm Varshini here</h1>
 
 <p align="center">
-    <a href="https://github.com/khomathi1085">
+    <a href="https://github.com/AlaguVarshini118">
         <img src="https://komarev.com/ghpvc/?username=khomathi1085&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
     </a>
-    <a href="https://github.com/khomathi1085?tab=followers">
-        <img src="https://img.shields.io/github/followers/khomathi1085?label=Followers&style=social" alt="Followers count">
+    <a href="https://github.com/AlaguVarshini118?tab=followers">
+        <img src="https://img.shields.io/github/followers/AlaguVarshini118?label=Followers&style=social" alt="Followers count">
     </a>
 </p>
 
@@ -13,10 +13,10 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m a **Full Stack Web Developer** skilled in the **MERN stack** with a strong understanding of **DevOps with AWS**.
-- 💡 My primary focus is on writing **clean, elegant, and efficient code** to deliver high-quality web applications.
-- 📈 I'm passionate about leveraging **cutting-edge technologies** to create innovative solutions.
-- 🤝 If you're looking for a dedicated Full Stack Developer, let's **connect**!
+🔭 I’m a Frontend Web Developer with expertise in React, Node.js, and AI/ML applications.
+💡 My focus is on crafting high-performance, user-centric applications that solve real-world problems with innovative solutions.
+📈 I enjoy exploring and applying emerging technologies like Computer Vision, Deep Learning, and NLP to create impactful, future-forward solutions.
+🤝 If you’re looking for a dedicated developer to bring your ideas to life, let’s connect!
 
 ---
 
@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+     <img src="https://img.shields.io/badge/Docker-339933?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
@@ -46,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khomathi1085&theme=radical" alt="GitHub Streak" height="150"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khomathi1085&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaguVarshini118&theme=radical" alt="GitHub Streak" height="150"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaguVarshini118&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
 </p>
 
 ---
@@ -55,10 +56,10 @@
 ### 🌐 Let's Connect
 
 <p>
-    <a href="https://linkedin.com/in/khomathid/" target="_blank">
+    <a href="https://www.linkedin.com/in/alagu-varshini-877781249/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:khomathi1085@gmail.com">
+    <a href="mailto:varshukumar118@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </p>
@@ -68,5 +69,5 @@
 ### 🔍 Languages Used
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khomathi1085&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaguVarshini118&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
