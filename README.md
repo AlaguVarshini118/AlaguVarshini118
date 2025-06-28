@@ -13,9 +13,7 @@
 
 ### 👩‍💻 About Me
 
-Here's the revised version:
 
----
 
 - 🔭 I’m a **Frontend Web Developer** with expertise in **React**, **Node.js**, and **AI/ML** applications.  
 - 💡 My focus is on crafting **high-performance, user-centric applications** that solve real-world problems with innovative solutions.  
